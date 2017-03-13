@@ -3,6 +3,8 @@ html {
 }
 
 body {
-  margin: 0;
-  font: 16px / 1 sans-serif;
+  background-color:#302DBD;
+  color:#030303;
+  margin: 2;
+  font: 19px / 1 tahoma;
 }
